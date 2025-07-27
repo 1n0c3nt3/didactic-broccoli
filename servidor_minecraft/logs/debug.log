@@ -875,3 +875,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 13:57:24.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 14:02:24.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 14:02:24.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 14:05:23.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 has made the advancement [Suit Up]
+[27Jul2025 14:07:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 14:07:24.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 14:07:49.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: in0c3nt3_91 lost connection: Disconnected
+[27Jul2025 14:07:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 left the game
+[27Jul2025 14:12:24.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 14:12:24.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
