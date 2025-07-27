@@ -819,3 +819,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 13:05:30.620] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
 [27Jul2025 13:07:24.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 13:07:24.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:12:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:12:24.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:12:37.781] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:12:37.781] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:12:37.781] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:12:37.781] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[27Jul2025 13:12:37.782] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@70380283 into net.minecraft.network.Connection@353a82e0
+[27Jul2025 13:14:27.591] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:14:27.592] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:14:27.592] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:14:27.592] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[27Jul2025 13:14:27.592] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@36a64555 into net.minecraft.network.Connection@3299d759
+[27Jul2025 13:14:30.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: g43l_2018[/127.52.136.11:50979] logged in with entity id 3583 at (362.5, 71.0, 274.5)
+[27Jul2025 13:14:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 joined the game
+[27Jul2025 13:14:53.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g43l_2018 moved too quickly! 8.290023504813917,-6.559683385881939,0.18173190282305995
+[27Jul2025 13:14:54.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g43l_2018 was kicked for floating too long!
+[27Jul2025 13:14:54.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g43l_2018 lost connection: Flying is not enabled on this server
+[27Jul2025 13:14:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 left the game
+[27Jul2025 13:14:54.746] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 13:15:07.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:15:07.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:15:07.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[27Jul2025 13:15:07.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[27Jul2025 13:15:07.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@2c7b4e24 into net.minecraft.network.Connection@2844cf73
+[27Jul2025 13:15:09.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: g43l_2018[/127.52.136.11:52415] logged in with entity id 3830 at (399.46610248333025, 67.59563273362987, 281.05412883200665)
+[27Jul2025 13:15:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 joined the game
+[27Jul2025 13:15:29.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g43l_2018 moved too quickly! 10.04896418985652,0.0,1.6458191587643682
+[27Jul2025 13:17:24.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:17:24.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:19:45.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 was slain by Zombie
+[27Jul2025 13:20:27.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 has made the advancement [Acquire Hardware]
+[27Jul2025 13:20:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 has made the advancement [Acquire Hardware]
+[27Jul2025 13:20:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 was slain by Zombie
+[27Jul2025 13:22:24.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:22:24.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:23:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 13:23:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no client-side<--[HERE]
+[27Jul2025 13:27:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:27:24.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:31:58.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 was doomed to fall by in0c3nt3_91
+[27Jul2025 13:32:24.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:32:24.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
