@@ -145,3 +145,9 @@
 [27Jul2025 12:46:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [27Jul2025 12:49:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Jul2025 12:49:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: start<--[HERE]
+[27Jul2025 12:56:19.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: in0c3nt3_91[/127.52.136.11:34727] logged in with entity id 11 at (356.5, 69.0, 271.5)
+[27Jul2025 12:56:19.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 joined the game
+[27Jul2025 12:56:59.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 was slain by Zombie
+[27Jul2025 13:00:25.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 has made the advancement [Monster Hunter]
+[27Jul2025 13:00:26.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 was slain by Spider
+[27Jul2025 13:00:51.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 was shot by Skeleton
