@@ -168,3 +168,5 @@
 [27Jul2025 13:23:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Jul2025 13:23:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no client-side<--[HERE]
 [27Jul2025 13:31:58.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 was doomed to fall by in0c3nt3_91
+[27Jul2025 13:40:54.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 was slain by Zombie
+[27Jul2025 13:41:51.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1006, l='ServerLevel[world]', x=567.50, y=76.00, z=328.50] died, message: 'Villager was slain by Zombie'
