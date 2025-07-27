@@ -173,3 +173,6 @@
 [27Jul2025 14:05:23.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 has made the advancement [Suit Up]
 [27Jul2025 14:07:49.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: in0c3nt3_91 lost connection: Disconnected
 [27Jul2025 14:07:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: in0c3nt3_91 left the game
+[27Jul2025 14:16:40.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1036, l='ServerLevel[world]', x=566.86, y=77.00, z=334.70] died, message: 'Villager was slain by Zombie'
+[27Jul2025 14:17:09.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: g43l_2018 lost connection: Disconnected
+[27Jul2025 14:17:09.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g43l_2018 left the game
